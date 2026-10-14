@@ -1,0 +1,4 @@
+Employee Name: Ahmad Ali
+Hourly Rate: $30.0 USD
+Overtime Pay: $1170.0 USD
+Total Salary = $5070.0 USD
